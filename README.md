@@ -26,6 +26,12 @@ git clone https://github.com/sakagami0615/sample-simple-chatapp.git
 poetry update
 ```
 
+.envファイルを作成して `OPENAI_API_KEY` を記載する。
+
+```.env
+OPENAI_API_KEY=[Your OpenAI API key]
+```
+
 ## run app
 
 ```bash
