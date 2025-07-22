@@ -16,8 +16,6 @@
     - DuckDuckGo: Web検索
     - wikipedia: Wiki検索
 
-[DuckDuckGoSearchRun()] + load_tools(["wikipedia"])
-
 ## environment setting
 
 ```bash
